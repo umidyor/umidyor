@@ -9,7 +9,7 @@ I'm a passionate data analytic and backend developer with a keen interest in ope
 - 🤔 I’m looking for help with: Enhancing my knowledge in machine learning
 - 💬 Ask me about: Data analytics, backend development, Python, Django
 - 📫 How to reach me: [umidyor007@gmail.com]
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge football fan and love watching Cristiano Ronaldo play.
 
 ## Languages and Tools
@@ -45,12 +45,11 @@ Here are some of the languages and tools I use:
 
 ## My Favorite Player
 ![Cristiano Ronaldo 2017](https://wallpapercave.com/wp/wp11850089.jpg)
-![Cristiano Ronaldo 2008](https://assets.manutd.com/AssetPicker/images/0/0/10/126/687707/Legends-Profile_Cristiano-Ronaldo31523460875196_large.jpg)
 
 ## About Left Winger Position
 I am a left winger. A left winger in football is a player positioned on the left side of the field. Their primary role is to create scoring opportunities, deliver crosses into the box, and support the attack by stretching the opposition's defense. Left wingers are usually known for their speed, dribbling skills, and ability to cut inside and shoot at goal.
 
 ## My Favorite Anime Character
-![Shidou](https://static.wikia.nocookie.net/bluelock/images/a/a2/Shidou_Art.png)
+![Shidou]([https://static.wikia.nocookie.net/bluelock/images/a/a2/Shidou_Art.png](https://us.oricon-group.com/upimg/detail/1000/1950/img660/ae4deee95d8650d583974a5dba90e822.jpg))
 
 Feel free to reach out if you want to collaborate on exciting projects or just want to have a chat!
