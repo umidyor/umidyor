@@ -8,7 +8,7 @@ I'm a passionate data analytic and backend developer with a keen interest in ope
 - 👯 I’m looking to collaborate on: Data analytics projects and backend systems
 - 🤔 I’m looking for help with: Enhancing my knowledge in machine learning
 - 💬 Ask me about: Data analytics, backend development, Python, Django
-- 📫 How to reach me: [Your Contact Information]
+- 📫 How to reach me: [umidyor007@gmail.com]
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I'm a huge football fan and love watching Cristiano Ronaldo play.
 
@@ -36,17 +36,16 @@ Here are some of the languages and tools I use:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-- [Twitter](https://twitter.com/your-twitter/)
-- [Personal Website](https://your-website.com)
+- [Instagram](https://www.instagram.com/_left_winger/)
+
 
 ## Contributions
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umidyor&theme=radical)
 
 ## My Favorite Player
-![Cristiano Ronaldo 2017](https://upload.wikimedia.org/wikipedia/commons/8/88/Cristiano_Ronaldo_2017.jpg)
-![Cristiano Ronaldo 2008](https://upload.wikimedia.org/wikipedia/commons/b/b4/Cristiano_Ronaldo_2008.jpg)
+![Cristiano Ronaldo 2017](https://wallpapercave.com/wp/wp11850089.jpg)
+![Cristiano Ronaldo 2008](https://assets.manutd.com/AssetPicker/images/0/0/10/126/687707/Legends-Profile_Cristiano-Ronaldo31523460875196_large.jpg)
 
 ## About Left Winger Position
 I am a left winger. A left winger in football is a player positioned on the left side of the field. Their primary role is to create scoring opportunities, deliver crosses into the box, and support the attack by stretching the opposition's defense. Left wingers are usually known for their speed, dribbling skills, and ability to cut inside and shoot at goal.
