@@ -50,6 +50,6 @@ Here are some of the languages and tools I use:
 I am a left winger. A left winger in football is a player positioned on the left side of the field. Their primary role is to create scoring opportunities, deliver crosses into the box, and support the attack by stretching the opposition's defense. Left wingers are usually known for their speed, dribbling skills, and ability to cut inside and shoot at goal.
 
 ## My Favorite Anime Character
-![Shidou](https://i.redd.it/g78f89zh115e1.gif)
+![Shidou](https://us.oricon-group.com/upimg/detail/1000/1950/img660/ae4deee95d8650d583974a5dba90e822.jpg)
 
 Feel free to reach out if you want to collaborate on exciting projects or just want to have a chat!
