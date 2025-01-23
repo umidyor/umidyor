@@ -38,11 +38,6 @@ Here are some of the languages and tools I use:
 
 - [Instagram](https://www.instagram.com/_left_winger/)
 
-
-## Contributions
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umidyor&theme=radical)
-
 ## My Favorite Player
 ![Cristiano Ronaldo 2017](https://wallpapercave.com/wp/wp11850089.jpg)
 
