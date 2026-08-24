@@ -35,6 +35,46 @@
 
 </div>
 
+<!-- ══════════════ BIG PROJECTS ══════════════ -->
+<div align="center">
+
+### `⟩⟩ PUBLIC BIG PROJECTS // LIVE OPS`
+
+<table border="0">
+<tr>
+<td width="50%" valign="top">
+
+#### 🎙️ [`SIPAGENT.AI`](https://sipagent.ai)
+
+> AI-powered PBX & voice-agent platform — SIP telephony
+> automated with intelligent call handling.
+
+![Python](https://img.shields.io/badge/Python-fcee0a?style=flat-square&logo=python&logoColor=07080d)
+![Asterisk](https://img.shields.io/badge/Asterisk-ff003c?style=flat-square&logo=asterisk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-07080d?style=flat-square&logo=fastapi&logoColor=39ff14)
+
+[![LAUNCH](https://img.shields.io/badge/▶_LAUNCH-sipagent.ai-00f0ff?style=for-the-badge&labelColor=07080d)](https://sipagent.ai)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔗 [`OKALINK.UZ`](https://okalink.uz)
+
+> Bridges amoCRM chats with Telegram — a widget + backend
+> that keeps sales conversations in one flow.
+
+![Python](https://img.shields.io/badge/Python-fcee0a?style=flat-square&logo=python&logoColor=07080d)
+![FastAPI](https://img.shields.io/badge/FastAPI-07080d?style=flat-square&logo=fastapi&logoColor=39ff14)
+![Postgres](https://img.shields.io/badge/PostgreSQL-07080d?style=flat-square&logo=postgresql&logoColor=00f0ff)
+
+[![LAUNCH](https://img.shields.io/badge/▶_LAUNCH-okalink.uz-00f0ff?style=for-the-badge&labelColor=07080d)](https://okalink.uz)
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <!-- ══════════════ ARSENAL ══════════════ -->
 <div align="center">
 
