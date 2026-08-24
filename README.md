@@ -20,7 +20,7 @@
 <div align="center">
 <table border="0"><tr>
 <td align="center" valign="middle">
-  <img width="220" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/avatar_deco.png?v=6" alt="Umidyor Asomov"/>
+  <img width="220" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/avatar_deco.png?v=7" alt="Umidyor Asomov"/>
 </td>
 <td valign="middle">
   <img width="560" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/info.svg?v=6" alt="Umidyor Asomov — file"/>
