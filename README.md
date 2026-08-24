@@ -16,13 +16,16 @@
 
 </div>
 
-<!-- ══════════════ PROFILE CARD (avatar + animated decoration) ══════════════ -->
+<!-- ══════════════ PROFILE CARD (animated avatar + info panel) ══════════════ -->
 <div align="center">
-
-<a href="https://github.com/umidyor">
-  <img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/profile.svg?v=5" alt="Umidyor Asomov — profile card"/>
-</a>
-
+<table border="0"><tr>
+<td align="center" valign="middle">
+  <img width="220" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/avatar_deco.png?v=6" alt="Umidyor Asomov"/>
+</td>
+<td valign="middle">
+  <img width="560" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/info.svg?v=6" alt="Umidyor Asomov — file"/>
+</td>
+</tr></table>
 </div>
 
 <!-- ══════════════ ABOUT / TERMINAL ══════════════ -->

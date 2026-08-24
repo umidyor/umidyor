@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="360" viewBox="0 0 580 360" font-family="'Courier New',monospace">
+<defs>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#16323a" stroke-width="1" opacity="0.4"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="1.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07080d"/><stop offset="1" stop-color="#0c0d16"/></linearGradient>
+<style><![CDATA[
+  @keyframes scan{0%{transform:translateY(-10px)}100%{transform:translateY(360px)}} .scan{animation:scan 3.5s linear infinite;}
+  @keyframes flick{0%,96%,100%{opacity:1}97%{opacity:.5}98%{opacity:.9}} .frame{animation:flick 3s linear infinite;}
+  @keyframes gR{0%,100%{transform:translate(0,0)}25%{transform:translate(3px,-1px)}50%{transform:translate(-3px,1px)}75%{transform:translate(1px,0)}}
+  @keyframes gB{0%,100%{transform:translate(0,0)}25%{transform:translate(-3px,1px)}50%{transform:translate(3px,-1px)}75%{transform:translate(-1px,0)}}
+  .gr{animation:gR 2.4s steps(2) infinite;} .gb{animation:gB 2.4s steps(2) infinite;}
+  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}} .cur{animation:blink 1s steps(1) infinite;}
+  @keyframes dash{to{stroke-dashoffset:-40}} .dline{stroke-dasharray:8 6;animation:dash 1.2s linear infinite;}
+  
+  @keyframes r1{0%,27%{opacity:1}33%,94%{opacity:0}100%{opacity:1}}
+  @keyframes r2{0%,30%{opacity:0}36%,60%{opacity:1}66%,100%{opacity:0}}
+  @keyframes r3{0%,63%{opacity:0}69%,93%{opacity:1}99%,100%{opacity:0}}
+  .role1{animation:r1 9s infinite;} .role2{animation:r2 9s infinite;opacity:0;} .role3{animation:r3 9s infinite;opacity:0;}
+]]></style></defs>
+<rect width="580" height="360" fill="url(#bg)"/><rect width="580" height="360" fill="url(#grid)"/>
+<rect class="scan" width="580" height="2" fill="#00f0ff" opacity="0.14"/>
+<g class="frame">
+  <rect x="6" y="6" width="568" height="348" fill="none" stroke="#fcee0a" stroke-width="2"/>
+  <path d="M6 34V6H34" fill="none" stroke="#ff003c" stroke-width="4"/><path d="M574 34V6H546" fill="none" stroke="#ff003c" stroke-width="4"/>
+  <path d="M6 326V354H34" fill="none" stroke="#ff003c" stroke-width="4"/><path d="M574 326V354H546" fill="none" stroke="#ff003c" stroke-width="4"/>
+</g>
+<text x="554" y="30" text-anchor="end" font-size="11" fill="#fcee0a" letter-spacing="3">SYS://NIGHT-CITY.NET</text>
+<g transform="translate(40,64)">
+  <text x="0" y="0" font-size="12" fill="#ff003c" letter-spacing="3">&#9608; PERSONAL FILE // DECRYPTED</text>
+  <g font-size="42" font-weight="bold" letter-spacing="1">
+    <text class="gr" x="0" y="48" fill="#ff003c" opacity="0.9">UMIDYOR</text><text class="gb" x="0" y="48" fill="#00f0ff" opacity="0.9">UMIDYOR</text>
+    <text x="0" y="48" fill="#fcee0a" filter="url(#glow)">UMIDYOR</text></g>
+  <text x="0" y="86" font-size="28" font-weight="bold" fill="#f4f4f4" letter-spacing="2">ASOMOV</text>
+  <text class="role1" x="0" y="120" font-size="17" fill="#fcee0a" letter-spacing="2" filter="url(#glow)">&gt;_ VOIP ENGINEER<tspan class="cur" fill="#fff"> &#9608;</tspan></text>
+<text class="role2" x="0" y="120" font-size="17" fill="#00f0ff" letter-spacing="2" filter="url(#glow)">&gt;_ DATA ANALYTIC<tspan class="cur" fill="#fff"> &#9608;</tspan></text>
+<text class="role3" x="0" y="120" font-size="17" fill="#39ff14" letter-spacing="2" filter="url(#glow)">&gt;_ BACKEND DEV<tspan class="cur" fill="#fff"> &#9608;</tspan></text>
+
+  <line x1="0" y1="140" x2="500" y2="140" stroke="#fcee0a" stroke-width="1.5" class="dline"/>
+  <g font-size="15" fill="#d8d8e0" letter-spacing="1">
+    <text x="0" y="170"><tspan fill="#fcee0a">&#9642;</tspan> CORP&#160;&#160;&#160;&#160;&#160;<tspan fill="#fff">PixelTech IT Company</tspan></text>
+    <text x="0" y="198"><tspan fill="#fcee0a">&#9642;</tspan> LOC&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#fff">Tashkent, Uzbekistan</tspan></text>
+    <text x="0" y="226"><tspan fill="#fcee0a">&#9642;</tspan> ROLE&#160;&#160;&#160;&#160;<tspan fill="#fff">Backend &#183; Data &#183; VOIP</tspan></text>
+    <text x="0" y="254"><tspan fill="#fcee0a">&#9642;</tspan> COMMS&#160;&#160;&#160;<tspan fill="#39ff14">t.me/umidyor</tspan></text>
+  </g>
+</g></svg>
