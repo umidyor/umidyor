@@ -20,7 +20,7 @@
 <div align="center">
 
 <a href="https://github.com/umidyor">
-  <img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/profile.svg?v=4" alt="Umidyor Asomov — profile card"/>
+  <img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/profile.svg?v=5" alt="Umidyor Asomov — profile card"/>
 </a>
 
 </div>
