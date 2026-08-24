@@ -1,45 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="210" viewBox="0 0 960 210" font-family="'Courier New',monospace">
 <defs>
-<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
-  <path d="M26 0H0V26" fill="none" stroke="#16323a" stroke-width="1" opacity="0.45"/>
-</pattern>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#16323a" stroke-width="1" opacity="0.45"/></pattern>
 <filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07080d"/><stop offset="1" stop-color="#0c0d16"/></linearGradient>
 <style><![CDATA[
-  @keyframes scan{0%{transform:translateY(-10px)}100%{transform:translateY(210px)}}
-  .scan{animation:scan 3.5s linear infinite;}
-  @keyframes flick{0%,96%,100%{opacity:1}97%{opacity:.5}98%{opacity:.9}}
-  .frame{animation:flick 3s linear infinite;}
+  @keyframes scan{0%{transform:translateY(-10px)}100%{transform:translateY(210px)}} .scan{animation:scan 3.5s linear infinite;}
+  @keyframes flick{0%,96%,100%{opacity:1}97%{opacity:.5}98%{opacity:.9}} .frame{animation:flick 3s linear infinite;}
   @keyframes gR{0%,100%{transform:translate(0,0)}25%{transform:translate(3px,-1px)}50%{transform:translate(-3px,1px)}75%{transform:translate(1px,0)}}
   @keyframes gB{0%,100%{transform:translate(0,0)}25%{transform:translate(-3px,1px)}50%{transform:translate(3px,-1px)}75%{transform:translate(-1px,0)}}
   .gr{animation:gR 2.4s steps(2) infinite;} .gb{animation:gB 2.4s steps(2) infinite;}
-  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
-  .cur{animation:blink 1s steps(1) infinite;}
-  @keyframes type{from{width:0}to{width:100%}}
-  @keyframes dash{to{stroke-dashoffset:-40}}
-  .dline{stroke-dasharray:8 6;animation:dash 1.2s linear infinite;}
-  @keyframes rowin{0%{opacity:0}100%{opacity:1}}
-  .r1{animation:rowin .5s both;animation-delay:.3s} .r2{animation:rowin .5s both;animation-delay:.6s}
-  .r3{animation:rowin .5s both;animation-delay:.9s} .r4{animation:rowin .5s both;animation-delay:1.2s}
-  .r5{animation:rowin .5s both;animation-delay:1.5s} .r6{animation:rowin .5s both;animation-delay:1.8s}
-  .r7{animation:rowin .5s both;animation-delay:2.1s}
+  @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}} .cur{animation:blink 1s steps(1) infinite;}
+  @keyframes dash{to{stroke-dashoffset:-40}} .dline{stroke-dasharray:8 6;animation:dash 1.2s linear infinite;}
+  
+  @keyframes r1{0%,27%{opacity:1}33%,94%{opacity:0}100%{opacity:1}}
+  @keyframes r2{0%,30%{opacity:0}36%,60%{opacity:1}66%,100%{opacity:0}}
+  @keyframes r3{0%,63%{opacity:0}69%,93%{opacity:1}99%,100%{opacity:0}}
+  .role1{animation:r1 9s infinite;} .role2{animation:r2 9s infinite;opacity:0;} .role3{animation:r3 9s infinite;opacity:0;}
+
 ]]></style></defs>
 <rect width="960" height="210" fill="url(#bg)"/><rect width="960" height="210" fill="url(#grid)"/>
-<rect class="scan" width="960" height="2" fill="#00f0ff" opacity="0.15"/>
-<g class="frame">
-  <rect x="6" y="6" width="948" height="198" fill="none" stroke="#fcee0a" stroke-width="2"/>
-  <path d="M6 34V6H34" fill="none" stroke="#ff003c" stroke-width="4"/>
-  <path d="M954 34V6H926" fill="none" stroke="#ff003c" stroke-width="4"/>
-  <path d="M6 176V204H34" fill="none" stroke="#ff003c" stroke-width="4"/>
-  <path d="M954 176V204H926" fill="none" stroke="#ff003c" stroke-width="4"/>
-</g>
+<rect class="scan" width="960" height="2" fill="#00f0ff" opacity="0.15"/><g class="frame"><rect x="6" y="6" width="948" height="198" fill="none" stroke="#fcee0a" stroke-width="2"/>
+  <path d="M6 34V6H34" fill="none" stroke="#ff003c" stroke-width="4"/><path d="M954 34V6H926" fill="none" stroke="#ff003c" stroke-width="4"/>
+  <path d="M6 176V204H34" fill="none" stroke="#ff003c" stroke-width="4"/><path d="M954 176V204H926" fill="none" stroke="#ff003c" stroke-width="4"/></g>
 <text x="30" y="34" font-size="12" fill="#00f0ff" letter-spacing="3">CONNECTION ESTABLISHED &#9642; NIGHT CITY NET &#9642; 2077</text>
 <g font-size="62" font-weight="bold" letter-spacing="2">
-  <text class="gr" x="34" y="118" fill="#ff003c">UMIDYOR</text>
-  <text class="gb" x="34" y="118" fill="#00f0ff">UMIDYOR</text>
-  <text x="34" y="118" fill="#fcee0a" filter="url(#glow)">UMIDYOR</text>
-</g>
-<text x="38" y="158" font-size="22" fill="#f2f2f2" letter-spacing="4">&gt;_ VOIP ENGINEER<tspan class="cur" fill="#fcee0a"> &#9608;</tspan></text>
+  <text class="gr" x="34" y="118" fill="#ff003c">UMIDYOR</text><text class="gb" x="34" y="118" fill="#00f0ff">UMIDYOR</text>
+  <text x="34" y="118" fill="#fcee0a" filter="url(#glow)">UMIDYOR</text></g>
+<text class="role1" x="38" y="158" font-size="22" text-anchor="start" fill="#fcee0a" letter-spacing="3" filter="url(#glow)">&gt;_ VOIP ENGINEER<tspan class="cur" fill="#fff"> &#9608;</tspan></text>
+<text class="role2" x="38" y="158" font-size="22" text-anchor="start" fill="#00f0ff" letter-spacing="3" filter="url(#glow)">&gt;_ DATA ANALYTIC<tspan class="cur" fill="#fff"> &#9608;</tspan></text>
+<text class="role3" x="38" y="158" font-size="22" text-anchor="start" fill="#39ff14" letter-spacing="3" filter="url(#glow)">&gt;_ BACKEND DEV<tspan class="cur" fill="#fff"> &#9608;</tspan></text>
+
 <line x1="34" y1="176" x2="926" y2="176" stroke="#fcee0a" stroke-width="1.5" class="dline"/>
-<text x="34" y="196" font-size="13" fill="#39ff14" letter-spacing="2">BACKEND &#183; DATA ANALYTICS &#183; PYTHON &#183; DJANGO &#183; ASTERISK/SIP</text>
+<text x="34" y="196" font-size="13" fill="#39ff14" letter-spacing="2">BACKEND &#183; DATA ANALYTICS &#183; PYTHON &#183; DJANGO &#183; FASTAPI &#183; ASTERISK/SIP</text>
 </svg>
