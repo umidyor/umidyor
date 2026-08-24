@@ -10,13 +10,13 @@
 
 <!-- ───── Typing animation ───── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF1493&center=true&vCenter=true&width=700&height=60&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!+I'm+Umidyor;Backend+Developer+%2B+Data+Analyst;Python+%7C+Django+%7C+Pandas;Cutting+inside...+and+SHOOT!+%E2%9A%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF1493&center=true&vCenter=true&width=700&height=60&lines=I'm+Umidyor;Backend+Developer+%2B+Data+Analyst;Python+%7C+Django+%7C+Pandas;Cutting+inside...+and+SHOOT!+%E2%9A%BD" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- ───── Anime hero gif ───── -->
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="500" alt="anime coding"/>
+<img src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/hero.webp" width="480" alt="hero animation"/>
 
 <br/>
 
@@ -55,7 +55,7 @@ const umidyor: Developer = {
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"> Arsenal / 武器
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40"> Arsenal
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -74,14 +74,14 @@ const umidyor: Developer = {
 <!-- ═══════════════ STATS ═══════════════ -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"> Battle Stats / 戦績
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"> Battle Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=umidyor&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=8A2BE2&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidyor&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umidyor&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=8A2BE2&fire=00E5FF&currStreakLabel=FF1493" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=umidyor&theme=radical&hide_border=true&background=0D1117&stroke=FF1493&ring=8A2BE2&fire=00E5FF&currStreakLabel=FF1493" alt="streak"/>
 
 <br/>
 
@@ -92,7 +92,7 @@ const umidyor: Developer = {
 <!-- ═══════════════ ACTIVITY GRAPH ═══════════════ -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"> Activity Curve / 活動
+## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40"> Activity Curve
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=umidyor&theme=redical&bg_color=0D1117&color=FF1493&line=8A2BE2&point=00E5FF&hide_border=true&area=true" alt="activity graph"/>
 
@@ -120,7 +120,7 @@ const umidyor: Developer = {
 <!-- ═══════════════ CONNECT ═══════════════ -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"> Connect / 連絡
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40"> Connect
 
 <a href="https://www.instagram.com/_left_winger/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
@@ -141,4 +141,4 @@ const umidyor: Developer = {
 </div>
 
 <!-- ═══════════════ FOOTER WAVE ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF1493,100:8A2BE2&height=150&section=footer&text=Thanks%20for%20visiting!%20%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:FF1493,100:8A2BE2&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling"/>
