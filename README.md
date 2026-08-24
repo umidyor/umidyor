@@ -6,7 +6,7 @@
 <!-- ══════════════ TOP FRAME / HERO ══════════════ -->
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/top.svg?v=3" alt="Umidyor — VOIP Engineer"/>
+<img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/top.svg?v=4" alt="Umidyor — VOIP Engineer"/>
 
 <!-- ══════════════ LIVE STATS BADGES ══════════════ -->
 <img src="https://komarev.com/ghpvc/?username=umidyor&label=VISITORS&color=fcee0a&style=for-the-badge&labelColor=07080d" alt="views"/>
@@ -20,7 +20,7 @@
 <div align="center">
 
 <a href="https://github.com/umidyor">
-  <img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/profile.svg?v=3" alt="Umidyor Asomov — profile card"/>
+  <img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/profile.svg?v=4" alt="Umidyor Asomov — profile card"/>
 </a>
 
 </div>
@@ -28,7 +28,7 @@
 <!-- ══════════════ ABOUT / TERMINAL ══════════════ -->
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/terminal.svg?v=3" alt="about — profile.json"/>
+<img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/terminal.svg?v=4" alt="about — profile.json"/>
 
 </div>
 
@@ -87,6 +87,6 @@
 <!-- ══════════════ BOTTOM FRAME ══════════════ -->
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/bottom.svg?v=3" alt="end of transmission"/>
+<img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/bottom.svg?v=4" alt="end of transmission"/>
 
 </div>
