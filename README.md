@@ -6,7 +6,7 @@
 <!-- ══════════════ TOP FRAME / HERO ══════════════ -->
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/hero_isagi.jpg?v=1" alt="Umidyor — VOIP Engineer"/>
+<img width="640" src="https://raw.githubusercontent.com/umidyor/umidyor/main/assets/hero_isagi.png?v=2" alt="Umidyor — Welcome, Egoist"/>
 
 <!-- ══════════════ LIVE STATS BADGES ══════════════ -->
 <img src="https://komarev.com/ghpvc/?username=umidyor&label=VISITORS&color=fcee0a&style=for-the-badge&labelColor=07080d" alt="views"/>
