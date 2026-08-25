@@ -98,12 +98,10 @@
 <!-- ══════════════ NEURAL ACTIVITY ══════════════ -->
 <div align="center">
 
-### `⟩⟩ NEURAL ACTIVITY GRAPH`
+### `⟩⟩ NEURAL ACTIVITY // CONTRIBUTION SNAKE`
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=umidyor&bg_color=07080d&color=fcee0a&line=00f0ff&point=ff003c&hide_border=false&border_color=fcee0a&area=true&area_color=1a1a2e" alt="activity graph"/>
-
-<!-- contribution snake -->
-<img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<!-- contribution snake (auto-updates every 12h via GitHub Action) -->
+<img width="100%" src="https://raw.githubusercontent.com/umidyor/umidyor/output/github-contribution-grid-snake-dark.svg?v=2" alt="snake animation"/>
 
 </div>
 
